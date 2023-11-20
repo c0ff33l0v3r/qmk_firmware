@@ -5,3 +5,6 @@
 
 #pragma once
 
+#define OLED_BRIGHTNESS 128
+#define MASTER_LEFT
+#define SPLIT_LAYER_STATE_ENABLE
